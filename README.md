@@ -15,4 +15,4 @@ For curves, we will use the Arduino development board as the core, use sensors t
 
 As shown in ①②③ in the figure above, Raspberry Pi and Arduino cooperate with each other and control the traffic components; as shown in ④⑤⑥, Raspberry Pi can upload data to the cloud platform, which will analyze and process the data, visualize the data, and provide feedback For the Raspberry Pi, the Raspberry Pi can intelligently control traffic components based on real-time traffic data; as shown in ⑦, the Arduino that controls components such as curved ultrasonic wave and human body infrared pyroelectric can also upload data to the cloud platform, and finally Feedback to Raspberry Pi.
 
-#No reproduction is allowed without authorization.
+# Warning：No reproduction is allowed without authorization.
