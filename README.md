@@ -11,5 +11,6 @@ For road sections with traffic lights, we will use deep learning algorithms to c
 
 For curves, we will use the Arduino development board as the core, use sensors to detect in real time whether there are pedestrians or vehicles passing in the opposite lane, and use the development board to control the display and warning lights to remind drivers and pedestrians who want to make the curve.
 
+![示例图片](https://github.com/ChrisZxdxd/System-of-Intelligent-Transportation-Based-on-Raspberry-Pi/blob/6cf55ff3d9d8ccff9736c289039d8454233b0eb4/System%20Working%20Principle.png)
 
 As shown in ①②③ in the figure above, Raspberry Pi and Arduino cooperate with each other and control the traffic components; as shown in ④⑤⑥, Raspberry Pi can upload data to the cloud platform, which will analyze and process the data, visualize the data, and provide feedback For the Raspberry Pi, the Raspberry Pi can intelligently control traffic components based on real-time traffic data; as shown in ⑦, the Arduino that controls components such as curved ultrasonic wave and human body infrared pyroelectric can also upload data to the cloud platform, and finally Feedback to Raspberry Pi.
